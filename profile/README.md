@@ -11,10 +11,10 @@ Relution is the GDPR-compliant Mobile Device Management solution for schools, pu
 
 We are proud to contribute to the open source community. Explore our pinned repositories below.
 
-Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to contribute to our projects.
+Please refer to our **[CONTRIBUTING.md](https://github.com/relution-io/.github/blob/main/CONTRIBUTING.md)** for more information on how to contribute to our projects.
 
-For support, please refer to our [SUPPORT.md](SUPPORT.md)
+For support, please refer to our **[SUPPORT.md](https://github.com/relution-io/.github/blob/main/SUPPORT.md)**.
 
 ### Join us
 
-We cultivate community spirit, not individual struggle. We are looking for new colleagues who want to shape the digital future together with us. In small, agile teams with flat hierarchies and short decision-making paths. For more information and a list of open positions, visit [mway.io/en/career](https://mway.io/en/career)
+We cultivate community spirit, not individual struggle. We are looking for new colleagues who want to shape the digital future together with us. In small, agile teams with flat hierarchies and short decision-making paths. For more information and a list of open positions, visit **[mway.io/en/career](https://mway.io/en/career)**.

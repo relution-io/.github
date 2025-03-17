@@ -4,7 +4,7 @@ Thank you for your interest in contributing to Relution's open source projects! 
 
 ## About Relution
 
-While we maintain several open-source tools and utilities on GitHub that welcome community contributions, please note that our main Relution application is a separate commercial product not available on GitHub. For more information, visit [relution.io](https://relution.io/en).
+While we maintain several open-source tools and utilities on GitHub that welcome community contributions, please note that our main Relution application is a separate commercial product not available on GitHub. For more information, visit **[relution.io](https://relution.io/en)**.
 
 ## Code of Conduct
 
@@ -19,17 +19,17 @@ If you find a bug or have a suggestion for one of our open-source projects:
 3. Provide a clear description of the issue with steps to reproduce
 4. Include information about your environment (OS, version, etc.)
 
-For issues related to our main Relution product, please refer to the process outlined in our [SUPPORT.md](SUPPORT.md).
+For issues related to our main Relution product, please refer to the process outlined in our **[SUPPORT.md](https://github.com/relution-io/.github/blob/main/SUPPORT.md)**.
 
 ### Security Issues
 
-Please do not report security vulnerabilities through public GitHub issues. Refer to our [SECURITY.md](SECURITY.md) for instructions on how to responsibly disclose security concerns.
+Please do not report security vulnerabilities through public GitHub issues. Refer to our **[SECURITY.md](https://github.com/relution-io/.github/blob/main/SECURITY.md)** for instructions on how to responsibly disclose security concerns.
 
 ### Feature Requests
 
 For feature requests related to our open-source projects, please open an issue in the relevant repository with a detailed description of your proposal.
 
-For feature requests related to our main Relution product, please refer to the process outlined in our [SUPPORT.md](SUPPORT.md).
+For feature requests related to our main Relution product, please refer to the process outlined in our **[SUPPORT.md](https://github.com/relution-io/.github/blob/main/SUPPORT.md)**.
 
 ## Code Contributions
 

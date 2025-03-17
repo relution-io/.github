@@ -8,7 +8,7 @@ Please contact us if you discover a security-related issue such as
 
 ## Security Contact
 
-Please contact us at security@relution.io
+Please contact us at [security@relution.io](mailto:security@relution.io)
 
 We maintain a signed `security.txt` file: https://relution.io/.well-known/security.txt
 
