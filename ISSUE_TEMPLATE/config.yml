@@ -1,0 +1,14 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📚 Documentation & Customer Hub
+    url: https://hub.relution.io
+    about: Find documentation, changelogs and known issues of Relution
+  - name: 🎫 Commercial Support
+    url: https://helpdesk.relution.io
+    about: For Relution customers to open a support ticket
+  - name: 🗣️ Community Forum
+    url: https://community.relution.io
+    about: Engage with the Relution community
+  - name: 🔒 Security Contact
+    url: mailto:security@relution.io
+    about: Report security vulnerabilities
