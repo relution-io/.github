@@ -6,11 +6,13 @@ Please contact us if you discover a security-related issue such as
 - abuse or spam originating from one of our domains,
 - improper disclosure of personal information.
 
+You can find our policy on security research and responsible disclosure here: <https://hub.relution.io/en/docs/product-info/disclosure/>
+
 ## Security Contact
 
 Please contact us at [security@relution.io](mailto:security@relution.io)
 
-We maintain a signed `security.txt` file: https://relution.io/.well-known/security.txt
+We maintain a signed `security.txt` file: <https://relution.io/.well-known/security.txt>
 
 You can use our PGP key to encrypt your message:
 
